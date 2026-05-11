@@ -1,2 +1,2 @@
 # 11-IITP-DABT-MCP
-11. 문화관광정보 제공을 위한 MCP(Model Context Protocol) 호스트 및 서버구성
+11. 관광정보 제공을 위한 MCP(Model Context Protocol) 호스트 및 서버구성
